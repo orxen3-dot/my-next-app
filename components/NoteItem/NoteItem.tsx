@@ -9,7 +9,7 @@ const NoteItem = ({ item }: Props) => {
     return (
         <li>
             <Link href={`/notes/${item.id}`}>
-                <p>{item.title}</p>
+                {item.title}
             </Link>
         </li>
     );

@@ -1,4 +1,4 @@
-import TanStackProvider from "@/components/TanStackProvider/TanStackProvider.jsx";
+import TanStackProvider from "@/components/TanStackProvider/TanStackProvider";
 
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
