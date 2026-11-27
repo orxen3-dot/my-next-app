@@ -5,6 +5,7 @@
   gap: 24px;
   padding: 12px;
   border-block-end: 1px solid #ccc;
+  background-color: rgb(36, 6, 66);
 }
 
 .navigation {
